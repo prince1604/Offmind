@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# Ollama
+# Offmind
 
 Get up and running with large language models.
 
