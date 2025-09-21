@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/your-username/offmind">
-    <img alt="offmind" width="240" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
+    <img alt="offmind" width="240" src="https://in.pinterest.com/pin/81909286966649409/">
   </a>
   
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/offmind/blob/main/LICENSE)
@@ -32,7 +32,7 @@ Offmind is a powerful fork of Ollama designed specifically for offline AI model 
 [Download Offmind for macOS](https://github.com/your-username/offmind/releases/latest/download/Offmind.dmg)
 
 ### Windows
-[Download Offmind for Windows](https://github.com/your-username/offmind/releases/latest/download/OffmindSetup.exe)
+[Download Offmind for Windows](https://ollama.com/download/windows)
 
 ### Linux
 ```bash
