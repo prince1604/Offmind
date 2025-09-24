@@ -1,9 +1,7 @@
 # Offmind: Local AI Model Runner (Ollama Fork)
 
 <div align="center">
-  <a href="https://github.com/your-username/offmind">
-    <img alt="offmind" width="240" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
-  </a>
+ 
   
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/offmind/blob/main/LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your-username/offmind/pulls)
